@@ -1,0 +1,22 @@
+{
+  "name": "wechat-axios",
+  "version": "1.0.0",
+  "description": "基于小程序请求request，实现axios插件一样的使用方式，告别繁琐使用、高效开发",
+  "main": "lib/axios",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luzhonglai/wechat-axios.git"
+  },
+  "author": "zhonglai lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luzhonglai/wechat-axios/issues"
+  },
+  "homepage": "https://github.com/luzhonglai/wechat-axios#readme"
+}
